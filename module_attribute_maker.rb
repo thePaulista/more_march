@@ -60,7 +60,8 @@ class User
   attributes :first_name, :last_name
 end
 
-#from teamtreehouse on ruby modules workshop. code written by jason seifer
+# me practicing my ruby scales. here to study this again and play with it a bit.
+#from teamtreehouse on ruby modules workshop. original code written by jason seifer
 # attribute: first_name
 # attribute: last_name
 #
